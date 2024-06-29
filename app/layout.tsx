@@ -14,7 +14,7 @@ import { seo } from '~/lib/seo'
 export const metadata: Metadata = {
   metadataBase: seo.url,
   title: {
-    template: '%s | Gops dev',
+    template: '%s | Gops.dev',
     default: seo.title,
   },
   description: seo.description,
